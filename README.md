@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/lucashenriquepereirasilva/BancodeDados)
+
 ## Bikeshop
 
 🚴‍♂️ BikeShop - Sistema de Gerenciamento🚀
