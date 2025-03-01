@@ -15,7 +15,7 @@ Desafio:
 
 A BikeShop está crescendo rapidamente e enfrenta desafios no gerenciamento eficiente de seus estoque, clientes e vendas. Atualmente, ekes estão registrando essas informações manualmente ou usando planilhas eletrônicas(Excel), o que se tornou ineficiente e propenso a erros. Eles reconhecem a necessidade de um sistema de banco de dados centralizados que possa armazenar e gerenciar essas informações de forma mais eficaz.
 
-bjetivo do Sistema de Banco de Dados
+objetivo do Sistema de Banco de Dados
 
 Gerenciar o estoque de bicicletas e acessórios, incluindo detalhes como modelo,marca,quantidade em estoque preço de venda e fornecedor.
 
